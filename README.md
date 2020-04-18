@@ -8,3 +8,8 @@ a simple english spell checker
 
 # dictionary-support
 1. English 
+
+
+# Materials
+
+1. https://www.zhihu.com/question/37258748/answer/71156445
